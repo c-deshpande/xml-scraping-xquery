@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+    <course>
+        <department>LBST</department>
+        <count>1</count>
+    </course>
+
+    <course>
+        <department>CLAS</department>
+        <count>3</count>
+    </course>
+
+    <course>
+        <department>GRK</department>
+        <count>4</count>
+    </course>
+
+    <course>
+        <department>LAT</department>
+        <count>4</count>
+    </course>
+
+    <course>
+        <department>DANC</department>
+        <count>6</count>
+    </course>
+
+    <course>
+        <department>CHIN</department>
+        <count>8</count>
+    </course>
+
+    <course>
+        <department>CRWR</department>
+        <count>10</count>
+    </course>
+
+    <course>
+        <department>GER</department>
+        <count>10</count>
+    </course>
+
+    <course>
+        <department>LING</department>
+        <count>10</count>
+    </course>
+
+    <course>
+        <department>RUSS</department>
+        <count>12</count>
+    </course>
+
+    <course>
+        <department>REL</department>
+        <count>13</count>
+    </course>
+
+    <course>
+        <department>THEA</department>
+        <count>13</count>
+    </course>
+
+    <course>
+        <department>FREN</department>
+        <count>14</count>
+    </course>
+
+    <course>
+        <department>SOC</department>
+        <count>14</count>
+    </course>
+
+    <course>
+        <department>SPAN</department>
+        <count>15</count>
+    </course>
+
+    <course>
+        <department>LIT</department>
+        <count>16</count>
+    </course>
+
+    <course>
+        <department>PHIL</department>
+        <count>17</count>
+    </course>
+
+    <course>
+        <department>POL</department>
+        <count>18</count>
+    </course>
+
+    <course>
+        <department>ANTH</department>
+        <count>23</count>
+    </course>
+
+    <course>
+        <department>ECON</department>
+        <count>23</count>
+    </course>
+
+    <course>
+        <department>ART</department>
+        <count>23</count>
+    </course>
+
+    <course>
+        <department>MUS</department>
+        <count>25</count>
+    </course>
+
+    <course>
+        <department>ENG</department>
+        <count>27</count>
+    </course>
+
+    <course>
+        <department>HIST</department>
+        <count>30</count>
+    </course>
+
+    <course>
+        <department>PSY</department>
+        <count>37</count>
+    </course>
+
+    <course>
+        <department>HUM</department>
+        <count>42</count>
+    </course>
+
+    <course>
+        <department>MATH</department>
+        <count>45</count>
+    </course>
+
+    <course>
+        <department>PHYS</department>
+        <count>49</count>
+    </course>
+
+    <course>
+        <department>BIOL</department>
+        <count>56</count>
+    </course>
+
+    <course>
+        <department>CHEM</department>
+        <count>64</count>
+    </course>
+
+    <course>
+        <department>PE</department>
+        <count>71</count>
+    </course>
+
+</root>
